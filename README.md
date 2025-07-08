@@ -5,7 +5,7 @@ NutriCart is a smart cart system that tracks not only prices but also macronutri
 
 While this technology can be adapted for hot food bars like those in Whole Foods, our current implementation focuses on enhancing the shopping cart experience.
 
-<img src="./assets/NutriCart-Demo.gif" alt="NutriCart Demo" width="800"/>
+<img src="./NutriCart/assets/NutriCart-Demo.gif" alt="NutriCart Demo" width="800"/>
 
 This project consists of multiple repos:
 
@@ -15,7 +15,7 @@ This project consists of multiple repos:
 - **[Hardware Device](https://github.com/Kahan-2410/NutriCart-Hardware)**: Computer vision logic for detecting items in cart.
 
 ## Architecture  
-![Architecture Diagram](./assets/architecture-diagram.png)
+![Architecture Diagram](./NutriCart/assets/architecture-diagram.png)
 
 Check the [Architecture Guide](docs/architecture-guide.md) for further details on the project architecture.
 
